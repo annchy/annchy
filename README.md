@@ -13,4 +13,4 @@
 For the Live summary of my account please click here :
 https://profile-summary-for-github.com/user/anshulchaudhary0677
 
-<img align="left" alt="Anshul Chaudhary's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anshulchaudhary0677&show_icons=true&hide_border=true" />
+<img align="left" alt="Anshul Chaudhary's Github Stats" src="https://github-readme-stats.vercel.app/api?username=annchy&show_icons=true&hide_border=true" />

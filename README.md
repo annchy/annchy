@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on multiple computer vision
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on HTML, CSS, and Computer Vision problem
-- 🤔 I’m looking for help with learning Deep Learning.
+- 🤔 I’m looking for help with learning Web Development.
 - 💬 Ask me about anything
 - 📫 Contact me here : anshulchoudhary2001@gmail.com
 - 😪 visit my personal website : http://anschy.github.io/

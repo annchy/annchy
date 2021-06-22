@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with learning Web Development.
 - 💬 Ask me about anything
 - 📫 Contact me here : anshulchoudhary2001@gmail.com
-- 😪 visit my personal website : http://anschy.github.io
+- 😪 visit my personal website : https://anschy.netlify.app/
 - ⚡ Fun fact: Sike You thought there must be any fun for me. JK, I love memes.
 
 For the Live summary of my account please click here :
